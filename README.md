@@ -53,7 +53,7 @@ Next imagine that we instantiate a new Icecream, passing our own custom options.
 ```
 new Icecream({discount: true});
 ```
-In the constructor of our Icecream class we now add the user options to the Configurazione manager by calling ```config.options()```
+In the constructor of our Icecream class we now add the user options to the Configurazione manager by calling ```configurazione.options()```
 
 ```
 var defaultOptions = {
