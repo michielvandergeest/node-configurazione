@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/michielvandergeest/node-configurazione.svg?branch=master)](https://travis-ci.org/michielvandergeest/node-configurazione)
+
 #Configurazione
 ##A simple configuration manager in Node.js
 
